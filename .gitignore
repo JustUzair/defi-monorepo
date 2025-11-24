@@ -6,3 +6,8 @@ tmp.ipynb
 tmp.excalidraw
 tmp.txt
 tmp.excalidraw
+
+
+cache/
+out/
+*.env
