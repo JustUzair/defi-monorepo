@@ -8,3 +8,6 @@ libs = ["lib"]
 
 [fmt]
 line_length = 80
+
+[rpc_endpoints]
+mainnet = "https://1rpc.io/eth"
